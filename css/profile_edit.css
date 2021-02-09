@@ -1,0 +1,52 @@
+body {
+    background: #BA68C8
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #BA68C8
+}
+
+.profile-button {
+    background: #BA68C8;
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background: #682773
+}
+
+.profile-button:focus {
+    background: #682773;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #682773;
+    box-shadow: none
+}
+
+.back:hover {
+    color: #682773;
+    cursor: pointer
+}
+
+#profile_img{
+    font-size: 14px;
+    margin-top: 14px;
+    margin-left: 76px;
+}
+
+.sub_btn{
+    color: white;
+    border: 1px #DBDFE4 solid; 
+    padding: 8px; 
+    border-radius: 5px; 
+    background-color: #BA68C8;
+    outline: none;
+}
+
+.sub_btn:hover {
+    background-color: #682773;
+}
