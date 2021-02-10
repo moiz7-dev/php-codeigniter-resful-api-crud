@@ -38,9 +38,9 @@ issues, as well as missing features.
 ************
 Installation
 ************
-Import users_db database to mysql.
-Run http://localhost/ci_api/dashboard . (homepage url)
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
+-  `Import users_db database to mysql.
+-  `Run http://localhost/ci_api/dashboard . (homepage url) 
+-  `Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
 
 *******
